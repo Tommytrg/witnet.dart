@@ -10,4 +10,4 @@ updates:
     directory: '/'
     schedule:
       interval: daily
-      time: '19:00'
+      time: '19:04'
